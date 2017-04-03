@@ -1,0 +1,12 @@
+Kyle Chen
+
+1. Charactor remain inside of the screen
+2. Charactor get life deducted when touch jellyfish
+3. Charactor is able to collect life
+4. Jellyfish moves toward left side of the screen
+5. Charactor is able to move around
+6. Game over when charactor's life goes below 0
+7. life goes up when hit red box
+8. jellyfish disappear when hit yellow box
+9. jellyfish appear randomly
+10. resource appear randomly
